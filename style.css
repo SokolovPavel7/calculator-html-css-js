@@ -1,0 +1,20 @@
+/*
+        colors
+        bg #000
+        orange #ff9501
+        grey #a6a6a6
+        white #fdfdfd
+*/
+.calc {
+  margin: 50px auto; /*выравнивание калькулятора по середине страницы*/
+  width: 300px;
+  height: 500px;
+  /*border: 1px solid#000;  (border - граница, solid - сплошной)*/
+  border-radius: 20px; /*закругление углов*/
+  background: #000; /*фон -черный*/
+  color: #fff;
+  /*front-family - семейство шрифтов*/
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 18px; /*отступ*/
+  box-shadow: 4px 4px 4px #4f4f4f; /*бокс-тень*/
+}
